@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosoyio" alt="yosoyio" /></a> </p>
 
-- 🔭 I’m currently working on **Literalura**
+- 🔭 I’m currently working on **COMECYT**
 
-- 🌱 I’m currently learning **Backend using Spring**
+- 🌱 I’m currently learning **FrontEnd con React y Vue**
 
-- 🤝 I’m looking for help with **improving my frontend skills**
+- 🤝 I’m looking for help with **improving my DevOps skills**
 
 - 👨‍💻 All of my projects are available at [https://yosoyio.github.io/Portafolio/](https://yosoyio.github.io/Portafolio/)
 
