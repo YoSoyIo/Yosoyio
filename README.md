@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosoyio&show_icons=true&locale=en" alt="yosoyio" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyio&" alt="yosoyio" /></p>
