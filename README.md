@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **improving my DevOps skills**
 
-- 👨‍💻 All of my projects are available at [https://yosoyio.github.io/Portafolio/](https://yosoyio.github.io/Portafolio/)
+- 👨‍💻 All of my projects are available at [https://yosoyio.github.io/Portafolio/]([https://yosoyio.github.io/Portafolio/](https://portafolio-one-omega-89.vercel.app/))
 
 - 💬 Ask me about **data science, ML and Data Analytics**
 
